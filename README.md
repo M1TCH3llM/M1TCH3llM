@@ -26,7 +26,7 @@ class Skills extends UX/UI Design {
 
 ## 🌐 Socials:
 
-<a href = "www.linkedin.com/in/mitchell-morgan-0952b1138" target="_blank"><img src="https://simpleicons.now.sh/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"><a href = "https://lighthearted-babka-c9dccc.netlify.app/" target="_blank"><img src="./imgAsset/poloroid.svg" alt="portfolio link">
+<a href = "https://www.linkedin.com/in/mitchell-morgan-0952b1138/" target="_blank"><img src="https://simpleicons.now.sh/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"><a href = "https://lighthearted-babka-c9dccc.netlify.app/" target="_blank"><img src="./imgAsset/poloroid.svg" alt="portfolio link">
 
 # 💻 Tech Stack:
 
